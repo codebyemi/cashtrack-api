@@ -119,10 +119,10 @@ The web server started successfully:
 ________________
 
 ### Frontend code:
-* [github.com/emijerochim/organizr](http://github.com/codebyemi/cashtrack)
+* [github.com/codebyemi/cashtrack](http://github.com/codebyemi/cashtrack)
 
 ### Backend code:
-* [github.com/emijerochim/organizr-api](http://github.com/codebyemi/cashtrack-api)
+* [github.com/codebyemi/cashtrack-api](http://github.com/codebyemi/cashtrack-api)
 
 
 <br></br>
