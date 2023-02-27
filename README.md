@@ -12,7 +12,7 @@
 ## Installation ▶️ 
 
 1. Clone the repository
-```git clone https://github.com/emijerochim/organizr-api.git```
+```git clone https://github.com/codebyemi/cashtrack-api.git```
 
 2. Enter into the project folder
 ```cd organizr-api```
