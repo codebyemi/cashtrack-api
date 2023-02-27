@@ -1,4 +1,4 @@
-## 👁️‍🗨️ organizr-api
+## 💸 cashtrack-api
 
 <div>
   <img src="https://github.com/emijerochim/organizr/blob/master/src/assets/1.jpg" height="350px">
