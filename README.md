@@ -1,10 +1,10 @@
-## 👁️‍🗨️ organizr-api
+## 💸 cashtrack-api
 
 <div>
-  <img src="https://github.com/emijerochim/organizr/blob/master/src/assets/1.jpg" height="350px">
-  <img src="https://github.com/emijerochim/organizr/blob/master/src/assets/2.PNG" height="350px">
-  <img src="https://github.com/emijerochim/organizr/blob/master/src/assets/3.jpg" height="350px">
-  <img src="https://github.com/emijerochim/organizr/blob/master/src/assets/4.jpg" height="350px">
+  <img src="https://github.com/codebyemi/cashtrack/blob/main/src/assets/1.jpg" height="350px">
+  <img src="https://github.com/codebyemi/cashtrack/blob/main/src/assets/2.PNG" height="350px">
+  <img src="https://github.com/codebyemi/cashtrack/blob/main/src/assets/3.jpg" height="350px">
+  <img src="https://github.com/codebyemi/cashtrack/blob/main/src/assets/4.jpg" height="350px">
 </div>
 
 
@@ -12,10 +12,10 @@
 ## Installation ▶️ 
 
 1. Clone the repository
-```git clone https://github.com/emijerochim/organizr-api.git```
+```git clone https://github.com/codebyemi/cashtrack-api.git```
 
 2. Enter into the project folder
-```cd organizr-api```
+```cd cashtrack-api```
 
 3. Install the required packages
 ```npm install```
@@ -119,12 +119,12 @@ The web server started successfully:
 ________________
 
 ### Frontend code:
-* [github.com/emijerochim/organizr](http://github.com/emijerochim/organizr)
+* [github.com/codebyemi/cashtrack](http://github.com/codebyemi/cashtrack)
 
 ### Backend code:
-* [github.com/emijerochim/organizr-api](http://github.com/emijerochim/organizr-api)
+* [github.com/codebyemi/cashtrack-api](http://github.com/codebyemi/cashtrack-api)
 
 
 <br></br>
 
-### [🧠 Try the demo](https://emijerochim.github.io/organizr)
+### [🧠 Try the demo](https://codebyemi.github.io/cashtrack)
