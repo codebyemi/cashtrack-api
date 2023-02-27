@@ -1,10 +1,10 @@
 ## 💸 cashtrack-api
 
 <div>
-  <img src="https://github.com/codebyemi/cashtrack/blob/master/src/assets/1.jpg" height="350px">
-  <img src="https://github.com/codebyemi/cashtrack/blob/master/src/assets/2.PNG" height="350px">
-  <img src="https://github.com/codebyemi/cashtrack/blob/master/src/assets/3.jpg" height="350px">
-  <img src="https://github.com/codebyemi/cashtrack/blob/master/src/assets/4.jpg" height="350px">
+  <img src="https://github.com/codebyemi/cashtrack/blob/main/src/assets/1.jpg" height="350px">
+  <img src="https://github.com/codebyemi/cashtrack/blob/main/src/assets/2.PNG" height="350px">
+  <img src="https://github.com/codebyemi/cashtrack/blob/main/src/assets/3.jpg" height="350px">
+  <img src="https://github.com/codebyemi/cashtrack/blob/main/src/assets/4.jpg" height="350px">
 </div>
 
 
